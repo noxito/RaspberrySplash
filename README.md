@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://cdn.discordapp.com/attachments/757399971598434354/795331973370871838/Raspberry-Splashscreen.gif) and ![Image](https://cdn.discordapp.com/attachments/757399971598434354/795331973370871838/Raspberry-Splashscreen.gif)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
